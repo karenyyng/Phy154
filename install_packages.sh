@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 #----------------------------------------------------------------------
 # This is a script for installing the python packages for Phy 154
